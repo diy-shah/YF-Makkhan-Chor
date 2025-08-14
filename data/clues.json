@@ -1,5 +1,170 @@
 [
-  { "code": "start123", "clue": "Go to the library’s tallest bookshelf." },
-  { "code": "bookworm", "clue": "Find the old banyan tree in the park." },
-  { "code": "treefound", "clue": "Final stop: the red bench by the fountain." }
+  {
+      "current_location": "Mahaveer Pratishthan",
+      "code": "48392",
+      "clue_location": "Aykar Sadan",
+      "clue": ""
+  },
+  {
+      "current_location": "Aykar Sadan",
+      "code": "92714",
+      "clue_location": "Surya Namaskar Point",
+      "clue": ""
+  },
+  {
+      "current_location": "Surya Namaskar Point",
+      "code": "61583",
+      "clue_location": "Cafe Blend",
+      "clue": ""
+  },
+  {
+      "current_location": "Mahaveer Pratishthan",
+      "code": "28471",
+      "clue_location": "7th Adventist",
+      "clue": ""
+  },
+  {
+      "current_location": "7th Adventist",
+      "code": "57296",
+      "clue_location": "Poonawala Lane",
+      "clue": ""
+  },
+  {
+      "current_location": "Poonawala Lane",
+      "code": "19053",
+      "clue_location": "Gujrat Dairy",
+      "clue": ""
+  },
+  {
+      "current_location": "Mahaveer Pratishthan",
+      "code": "83521",
+      "clue_location": "Gujrat Dairy",
+      "clue": ""
+  },
+  {
+      "current_location": "Gujrat Dairy",
+      "code": "41287",
+      "clue_location": "Poonawala Garden",
+      "clue": ""
+  },
+  {
+      "current_location": "Poonawala Garden",
+      "code": "76935",
+      "clue_location": "Brew So",
+      "clue": ""
+  },
+  {
+      "current_location": "Mahaveer Pratishthan",
+      "code": "25894",
+      "clue_location": "Cafe Blend",
+      "clue": ""
+  },
+  {
+      "current_location": "Cafe Blend",
+      "code": "64107",
+      "clue_location": "Poonawala Lane",
+      "clue": ""
+  },
+  {
+      "current_location": "Poonawala Lane",
+      "code": "37946",
+      "clue_location": "Aykar Sadan",
+      "clue": ""
+  },
+    {
+        "current_location": "GD Phase 2",
+        "code": "4012",
+        "clue_location": "Cheap store",
+        "clue": ""
+    },
+    {
+        "current_location": "Cheap store",
+        "code": "9271",
+        "clue_location": "Spice stories",
+        "clue": ""
+    },
+    {
+        "current_location": "Spice stories",
+        "code": "5830",
+        "clue_location": "Govind",
+        "clue": ""
+    },
+    {
+        "current_location": "Govind",
+        "code": "1469",
+        "clue_location": "Mahaveer Pratishthan",
+        "clue": ""
+    },
+    {
+        "current_location": "GD Phase 2",
+        "code": "3529",
+        "clue_location": "Rajkamal",
+        "clue": ""
+    },
+    {
+        "current_location": "Rajkamal",
+        "code": "6741",
+        "clue_location": "Pyramid",
+        "clue": ""
+    },
+    {
+        "current_location": "Pyramid",
+        "code": "8450",
+        "clue_location": "Falhaar",
+        "clue": ""
+    },
+    {
+        "current_location": "Falhaar",
+        "code": "2906",
+        "clue_location": "Warm gloves",
+        "clue": ""
+    },
+    {
+        "current_location": "Gagan Galaxy",
+        "code": "5173",
+        "clue_location": "Mirror",
+        "clue": ""
+    },
+    {
+        "current_location": "Mirror",
+        "code": "8642",
+        "clue_location": "Kailas Panipuri stall",
+        "clue": ""
+    },
+    {
+        "current_location": "Kailas Panipuri stall",
+        "code": "7351",
+        "clue_location": "Gopal medical",
+        "clue": ""
+    },
+    {
+        "current_location": "Gopal medical",
+        "code": "4025",
+        "clue_location": "TURF",
+        "clue": ""
+    },
+    {
+        "current_location": "Ro & Co",
+        "code": "9580",
+        "clue_location": "Banaras Dairy",
+        "clue": ""
+    },
+    {
+        "current_location": "Banaras Dairy",
+        "code": "6234",
+        "clue_location": "Spice stories",
+        "clue": ""
+    },
+    {
+        "current_location": "Spice stories",
+        "code": "7819",
+        "clue_location": "Shreeji",
+        "clue": ""
+    },
+    {
+        "current_location": "Shreeji",
+        "code": "5098",
+        "clue_location": "TURF",
+        "clue": ""
+    }
 ]
