@@ -1,0 +1,5 @@
+[
+  { "code": "start123", "clue": "Go to the library’s tallest bookshelf." },
+  { "code": "bookworm", "clue": "Find the old banyan tree in the park." },
+  { "code": "treefound", "clue": "Final stop: the red bench by the fountain." }
+]
