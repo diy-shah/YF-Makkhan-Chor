@@ -1,0 +1,388 @@
+[
+    {
+      "team": "Team A",
+      "zone": "Salisbury",
+      "current_location": "MAHAVEER PRATISHTAAN",
+      "code": "A14B2C",
+      "clue_location": "7TH ADVENTIST CHURCH",
+      "clue": ""
+    },
+    {
+      "team": "Team A",
+      "zone": "Salisbury",
+      "current_location": "7TH ADVENTIST CHURCH",
+      "code": "A25D7E",
+      "clue_location": "POONAWALA LANE",
+      "clue": ""
+    },
+    {
+      "team": "Team A",
+      "zone": "Salisbury",
+      "current_location": "POONAWALA LANE",
+      "code": "A39F6G",
+      "clue_location": "GUJRAT DAIRY",
+      "clue": ""
+    },
+    {
+      "team": "Team A",
+      "zone": "Gangadham",
+      "current_location": "GUJRAT DAIRY",
+      "code": "A41H8J",
+      "clue_location": "GAGAN GALAXY",
+      "clue": ""
+    },
+    {
+      "team": "Team A",
+      "zone": "Gangadham",
+      "current_location": "GAGAN GALAXY",
+      "code": "A56K2L",
+      "clue_location": "MIRROR",
+      "clue": ""
+    },
+    {
+      "team": "Team A",
+      "zone": "Gangadham",
+      "current_location": "MIRROR",
+      "code": "A67M3N",
+      "clue_location": "SIDDHAM OPTICS",
+      "clue": ""
+    },
+    {
+      "team": "Team A",
+      "zone": "Gangadham",
+      "current_location": "SIDDHAM OPTICS",
+      "code": "A78P4Q",
+      "clue_location": "GOPAL MEDICAL",
+      "clue": ""
+    },
+    {
+      "team": "Team A",
+      "zone": "Gangadham",
+      "current_location": "GOPAL MEDICAL",
+      "code": "A89R5S",
+      "clue_location": "TURF",
+      "clue": ""
+    },
+    {
+      "team": "Team B",
+      "zone": "Salisbury",
+      "current_location": "MAHAVEER PRATISHTAAN",
+      "code": "B7P4K3",
+      "clue_location": "AYKAR SADAN",
+      "clue": "Clue for Aykar Sadan"
+    },
+    {
+      "team": "Team B",
+      "zone": "Salisbury",
+      "current_location": "AYKAR SADAN",
+      "code": "B6X2M9",
+      "clue_location": "SURYA NAMASKAR POINT",
+      "clue": "Clue for Surya Namaskar Point"
+    },
+    {
+      "team": "Team B",
+      "zone": "Salisbury",
+      "current_location": "SURYA NAMASKAR POINT",
+      "code": "B4H8W1",
+      "clue_location": "CAFE BLEND",
+      "clue": "Clue for Cafe Blend"
+    },
+    {
+      "team": "Team B",
+      "zone": "Salisbury",
+      "current_location": "CAFE BLEND",
+      "code": "B3D5T6",
+      "clue_location": "ZENKO",
+      "clue": "Clue for Cafe Blend"
+    },
+    {
+      "team": "Team B",
+      "zone": "Hyde Park",
+      "current_location": "ZENKO",
+      "code": "B2Q9E7",
+      "clue_location": "SAMBHAVNATH JAIN MANDIR",
+      "clue": "Clue for Sambhavnath Jain Mandir"
+    },
+    {
+      "team": "Team B",
+      "zone": "Hyde Park",
+      "current_location": "SAMBHAVNATH JAIN MANDIR",
+      "code": "B8R5T0",
+      "clue_location": "BHIMALE GARDEN",
+      "clue": "Clue for Bhimale Garden"
+    },
+    {
+      "team": "Team B",
+      "zone": "Hyde Park",
+      "current_location": "BHIMALE GARDEN",
+      "code": "B1V6C2",
+      "clue_location": "COFFEE STORIES",
+      "clue": "Clue for Coffee Stories"
+    },
+    {
+      "team": "Team B",
+      "zone": "Hyde Park",
+      "current_location": "COFFEE STORIES",
+      "code": "B5M3Z8",
+      "clue_location": "TURF",
+      "clue": "Clue for TURF"
+    },
+    {
+      "team": "Team C",
+      "zone": "Gangadham",
+      "current_location": "GD PHASE 2",
+      "code": "C7F2Q9",
+      "clue_location": "CHEAP STORE",
+      "clue": ""
+    },
+    {
+      "team": "Team C",
+      "zone": "Gangadham",
+      "current_location": "CHEAP STORE",
+      "code": "C9L4P2",
+      "clue_location": "SPICE STORIES",
+      "clue": ""
+    },
+    {
+      "team": "Team C",
+      "zone": "Gangadham",
+      "current_location": "SPICE STORIES",
+      "code": "C3V8M1",
+      "clue_location": "GOVIND SANDWICH",
+      "clue": ""
+    },
+    {
+      "team": "Team C",
+      "zone": "Gangadham",
+      "current_location": "GOVIND SANDWICH",
+      "code": "C2J5X7",
+      "clue_location": "MAHAVEER PRATISHTAAN",
+      "clue": ""
+    },
+    {
+      "team": "Team C",
+      "zone": "Salisbury",
+      "current_location": "MAHAVEER PRATISHTAAN",
+      "code": "C6W1H5",
+      "clue_location": "GUJRAT DAIRY",
+      "clue": ""
+    },
+    {
+      "team": "Team C",
+      "zone": "Salisbury",
+      "current_location": "GUJRAT DAIRY",
+      "code": "C5R8T4",
+      "clue_location": "POONAWALA GARDEN",
+      "clue": ""
+    },
+    {
+      "team": "Team C",
+      "zone": "Salisbury",
+      "current_location": "POONAWALA GARDEN",
+      "code": "C1M9E6",
+      "clue_location": "BREW SO",
+      "clue": ""
+    },
+    {
+      "team": "Team C",
+      "zone": "Salisbury",
+      "current_location": "BREW SO",
+      "code": "C8Y4Q3",
+      "clue_location": "TURF",
+      "clue": ""
+    },
+    {
+        "team": "Team D",
+        "zone": "Gangadham",
+        "current_location": "GD PHASE 2",
+        "code": "D74A2B",
+        "clue_location": "RAJKAMAL",
+        "clue": "[Your clue here]"
+    },
+    {
+        "team": "Team D",
+        "zone": "Gangadham",
+        "current_location": "RAJKAMAL",
+        "code": "D82L9Q",
+        "clue_location": "PYRAMID",
+        "clue": "[Your clue here]"
+    },
+    {
+        "team": "Team D",
+        "zone": "Gangadham",
+        "current_location": "PYRAMID",
+        "code": "D59C8X",
+        "clue_location": "FALHAAR",
+        "clue": "[Your clue here]"
+    },
+    {
+        "team": "Team D",
+        "zone": "Gangadham",
+        "current_location": "FALHAAR",
+        "code": "D47B6J",
+        "clue_location": "UNITY BAKERY",
+        "clue": "[Your clue here]"
+    },
+    {
+        "team": "Team D",
+        "zone": "Hyde Park",
+        "current_location": "UNITY BAKERY",
+        "code": "D93H1V",
+        "clue_location": "SUNDERJI GARAGE",
+        "clue": "[Your clue here]"
+    },
+    {
+        "team": "Team D",
+        "zone": "Hyde Park",
+        "current_location": "SUNDERJI GARAGE",
+        "code": "D26M4P",
+        "clue_location": "UNIVERSAL GYM",
+        "clue": "[Your clue here]"
+    },
+    {
+        "team": "Team D",
+        "zone": "Hyde Park",
+        "current_location": "UNIVERSAL GYM",
+        "code": "D65K3N",
+        "clue_location": "EKTA UDYAN",
+        "clue": "[Your clue here]"
+    },
+    {
+        "team": "Team D",
+        "zone": "Hyde Park",
+        "current_location": "EKTA UDYAN",
+        "code": "D11Y7T",
+        "clue_location": "TURF",
+        "clue": "[Your clue here]"
+    },
+    
+    {
+        "team": "Team E",
+        "zone": "Hyde Park",
+        "current_location": "UNITY BAKERY",
+        "code": "E74A2B",
+        "clue_location": "GRAFFITI",
+        "clue": "[Your clue here]"
+    },
+    {
+        "team": "Team E",
+        "zone": "Hyde Park",
+        "current_location": "GRAFFITI",
+        "code": "E82L9Q",
+        "clue_location": "32 CROWNS",
+        "clue": "[Your clue here]"
+    },
+    {
+        "team": "Team E",
+        "zone": "Hyde Park",
+        "current_location": "32 CROWNS",
+        "code": "E59C8X",
+        "clue_location": "GAVRAN DAIRY",
+        "clue": "[Your clue here]"
+    },
+    {
+        "team": "Team E",
+        "zone": "Hyde Park",
+        "current_location": "GAVRAN DAIRY",
+        "code": "E47B6J",
+        "clue_location": "RO & CO",
+        "clue": "[Your clue here]"
+    },
+    {
+        "team": "Team E",
+        "zone": "Gangadham",
+        "current_location": "RO & CO",
+        "code": "E93H1V",
+        "clue_location": "BANARAS DAIRY",
+        "clue": "[Your clue here]"
+    },
+    {
+        "team": "Team E",
+        "zone": "Gangadham",
+        "current_location": "BANARAS DAIRY",
+        "code": "E26M4P",
+        "clue_location": "SPICE STORIES",
+        "clue": "[Your clue here]"
+    },
+    {
+        "team": "Team E",
+        "zone": "Gangadham",
+        "current_location": "SPICE STORIES",
+        "code": "E65K3N",
+        "clue_location": "SHREEJI",
+        "clue": "[Your clue here]"
+    },
+    {
+        "team": "Team E",
+        "zone": "Gangadham",
+        "current_location": "SHREEJI",
+        "code": "E11Y7T",
+        "clue_location": "TURF",
+        "clue": "[Your clue here]"
+    },
+    
+    {
+        "team": "Team F",
+        "zone": "Hyde Park",
+        "current_location": "WARM GLOVES",
+        "code": "F74A2B",
+        "clue_location": "EKTA UDYAN",
+        "clue": "[Your clue here]"
+    },
+    {
+        "team": "Team F",
+        "zone": "Hyde Park",
+        "current_location": "EKTA UDYAN",
+        "code": "F82L9Q",
+        "clue_location": "CHANDAN MEDICAL",
+        "clue": "[Your clue here]"
+    },
+    {
+        "team": "Team F",
+        "zone": "Hyde Park",
+        "current_location": "CHANDAN MEDICAL",
+        "code": "F59C8X",
+        "clue_location": "TUPPERWARE",
+        "clue": "[Your clue here]"
+    },
+    {
+        "team": "Team F",
+        "zone": "Hyde Park",
+        "current_location": "TUPPERWARE",
+        "code": "F47B6J",
+        "clue_location": "MAHAVEER PRATISHTAAN",
+        "clue": "[Your clue here]"
+    },
+    {
+        "team": "Team F",
+        "zone": "Salisbury",
+        "current_location": "MAHAVEER PRATISHTAAN",
+        "code": "F93H1V",
+        "clue_location": "CAFE BLEND",
+        "clue": "[Your clue here]"
+    },
+    {
+        "team": "Team F",
+        "zone": "Salisbury",
+        "current_location": "CAFE BLEND",
+        "code": "F26M4P",
+        "clue_location": "POONAWALA LANE",
+        "clue": "[Your clue here]"
+    },
+    {
+        "team": "Team F",
+        "zone": "Salisbury",
+        "current_location": "POONAWALA LANE",
+        "code": "F65K3N",
+        "clue_location": "AYKAR SADAN",
+        "clue": "[Your clue here]"
+    },
+    {
+        "team": "Team F",
+        "zone": "Salisbury",
+        "current_location": "AYKAR SADAN",
+        "code": "F11Y7T",
+        "clue_location": "TURF",
+        "clue": "[Your clue here]"
+    }      
+]
