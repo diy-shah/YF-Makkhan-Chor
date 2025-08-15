@@ -42,10 +42,10 @@ Kya aapko samajh aaya yeh izhar?`,
   {
     code: "Aykar Sadan",
     zone: "Poonawala",
-    clue: `Main toh Makhan chor, lekin yeh choron ko pakad-ne wala,
-Sach ko dhoondne wala, Amay Patnaik jaisa nirbhaya wala.
-Na bansuri, na mor, yahan kagazon ka raaj,
-Jahan hisaab-kitaab se hoti hai sach ki talash`,
+    clue: `Mai to Makhan chor, lekin yeh choron ko pakadne waala,  
+Sach ko dhoondne waala, Amay Patnaik jaisa nirbhay waala.  
+Na bansuri, na mor, yahan kagazon ka raaj,  
+Jahan hisaab kitaab se hoti hai sach ki talash`,
   },
   {
     code: "Surya namaskar point",
