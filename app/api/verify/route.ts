@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { clues } from "@/app/data/clues"; // updated import path
+import { teamClues } from "@/app/data/TeamClues"; // updated import path
 
 interface VerifyRequest {
   code: string;
@@ -8,7 +8,7 @@ interface VerifyRequest {
 export async function POST(req: Request) {
   const body: VerifyRequest = await req.json();
 
-  const match = clues.find(
+  const match = teamClues.find(
     (a) => a.code.toLowerCase() === body.code.trim().toLowerCase()
   );
 
