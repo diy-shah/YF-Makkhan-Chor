@@ -4,7 +4,7 @@ import { useState, useRef, useEffect } from "react";
 import Image from 'next/image';
 import title from './images/title_logo.png'; // For static imports
 import logo from './images/yf_logo.png'; // For static imports
-import { readAloudHindi } from "./readAloud";
+//import { readAloudHindi } from "./readAloud";
 
 
 export default function HomePage() {
@@ -46,7 +46,7 @@ export default function HomePage() {
         setClue(data.clue);
         setCode("");
         audioRef.current?.play();
-        readAloudHindi(data.clue);
+        //readAloudHindi(data.clue);
         setTimeout(() => {
           startTyping(data.clue);
           console.log("This runs after 3 seconds");
