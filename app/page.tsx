@@ -1,6 +1,5 @@
 
 "use client";
-
 import { useState, useRef, useEffect } from "react";
 import Image from 'next/image';
 import title from './images/title_logo.png'; // For static imports
