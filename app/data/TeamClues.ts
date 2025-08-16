@@ -163,9 +163,9 @@ export const teamClues: TeamClue[] = [
     code: "B6R5T0",
     clue_location: "NOBLE DENTAL CLINIC",
     clue: `Muskan jiski pehchaan hai,
-Daaton ki rakhwali jiska kaam hai,
-2 baar brush karo nahi toh padegi chhadi,
-Uska doctor hi dega agli kadi`
+    Daaton ki rakhwali jiska kaam hai,
+    2 baar brush karo nahi toh padegi chhadi,
+    Uska doctor hi dega agli kadi`
   },
   {
     team: "Team B",
@@ -173,7 +173,10 @@ Uska doctor hi dega agli kadi`
     current_location: "NOBLE DENTAL CLINIC",
     code: "B7V6C2",
     clue_location: "UNITY BAKERY",
-    clue: "Clue for Coffee Stories"
+    clue: `Na sirf bread, na sirf mithai,
+    Yahan har swaad milta hai bhai-bhai.
+    Ekta ke rang se meethi hai har bite,
+    Dhoondo us jagah ko jo sabko kare unite`
   },
   {
     team: "Team B",
@@ -220,9 +223,9 @@ Uska doctor hi dega agli kadi`
     code: "C3V8M1",
     clue_location: "GOVIND SANDWICH",
     clue: `Cheese mai lipta, toast me band,
-Sabka hai ye mann pasand.
-Govind naam yaad rakho pyaare,
-Bhuk mitegi unhi ke sahare.`
+    Sabka hai ye mann pasand.
+    Govind naam yaad rakho pyaare,
+    Bhuk mitegi unhi ke sahare.`
   },
   {
     team: "Team C",
@@ -253,9 +256,9 @@ Bhuk mitegi unhi ke sahare.`
     code: "C6R8T4",
     clue_location: "POONAWALA GARDEN",
     clue: `The name’s a hint - a family known
-In this garden the seeds are sown
-BENCHES, trees & paths so wide,
-Nature’s beauty you cannot hide.`
+    In this garden the seeds are sown
+    BENCHES, trees & paths so wide,
+    Nature’s beauty you cannot hide.`
   },
   {
     team: "Team C",
@@ -323,11 +326,10 @@ Nature’s beauty you cannot hide.`
     code: "D4G1H2",
     clue_location: "EKTA UDYAN",
     clue: `Koi tehelne aata hai, toh koi khuli hawa khane 
-Koi apni gopi ke saath, koi dusre ki, hum kya jane
-Dil sabka garden garden hota hai
-Par jo sthirta aur ekta ke saath kaam kare
-Wahi vijayee hota hai
-`
+    Koi apni gopi ke saath, koi dusre ki, hum kya jane
+    Dil sabka garden garden hota hai
+    Par jo sthirta aur ekta ke saath kaam kare
+    Wahi vijayee hota hai`
   },
   {
     team: "Team D",
@@ -335,10 +337,10 @@ Wahi vijayee hota hai
     current_location: "EKTA UDYAN",
     code: "D5I4J5",
     clue_location: "CHANDAN MEDICAL",
-    clue: `Yeh woh Chandan hai, jisme koi khushbo nahi
-Har dard ka ilaaj hai waha par dil ka koi ilaaj nahi
-Waha jaake milega sirf kuch der ka aaram,
-Is paheli ko suljhana hai tumhara kaam`
+    clue: `"Yeh woh Chandan hai, jisme koi khushbo nahi
+    Har dard ka ilaaj hai waha par dil ka koi ilaaj nahi
+    Waha jaake milega sirf kuch der ka aaram,
+    Is paheli ko suljhana hai tumhara kaam"`
   },
   {
     team: "Team D",
@@ -346,49 +348,68 @@ Is paheli ko suljhana hai tumhara kaam`
     current_location: "CHANDAN MEDICAL",
     code: "D6K7L8",
     clue_location: "COFFEE STORIES",
-    clue: ""
+    clue: `Gopiyon ko main kahani sunata tha makhan ke saath,
+    Aaj tumhe milegi kahani garam pyaale ke haath.
+    Kabhi kadvi, kabhi meethi – bilkul prem ki yaari,
+    Chalo wahan, jahan har sip shuru kare ek nayi kahani`
   },
   {
     team: "Team D",
     zone: "Hyde Park",
-    current_location: "UNIVERSAL GYM",
+    current_location: "COFFEE STORIES",
     code: "D7M0N1",
-    clue_location: "EKTA UDYAN",
-    clue: ""
+    clue_location: "ZENKO",
+    clue: `Jab main chhota bacha tha, akal ka thoda kacha tha,
+    Par yahan aate hi khush hota tha, phir na kabhi rota tha. Khilone, games aur masti ka samaa,
+    Yahan aakar jeelo bachpan, aur karlo dhamaal.`
   },
   {
     team: "Team D",
     zone: "Hyde Park",
-    current_location: "EKTA UDYAN",
+    current_location: "ZENKO",
     code: "D8O3P4",
     clue_location: "TURF",
-    clue: ""
+    clue: `Khush toh boht hoge tum, kyunki yeh hai aakhri padav
+    Apne pure mann se khudko kanha ki aur badhav
+    Aapke bhav aur sahyog ko bana li hai humne apni aadat 
+    NA JHUKO Naa  ruko, chauko aur chakko se karenge SHREEmanji aapka swagat.`
   },
 
   // Team E
   {
     team: "Team E",
     zone: "Hyde Park",
-    current_location: "UNITY BAKERY",
+    current_location: "WARM GLOVES",
     code: "E1A2B3",
-    clue_location: "ELEPHANT GRAFFITI",
-    clue: ``
+    clue_location: "GRAFFITI",
+    clue: `"Safai ke baad Kanha ne socha kuch rang bharna,
+    Deewaron pe apni kala ka asar karna.
+    Jaha ek haathi badi shaan se khada,
+    Rang-birange roop se bilkul saja.
+    Deewaron ka yeh chhupa hua geet,
+    Socho kahan milega yeh rangin preet?"`
   },
   {
     team: "Team E",
     zone: "Hyde Park",
-    current_location: "ELEPHANT GRAFFITI",
+    current_location: "GRAFFITI",
     code: "E2C5D6",
-    clue_location: "32 CROWNS",
-    clue: ""
+    clue_location: "STUDY ABROAD",
+    clue: `Knowledge grown beyond the shore
+    Find the place that opens the door
+    Books and Visas, dreams unrolled,
+    The next clue lies where future unfolds.`
   },
   {
     team: "Team E",
     zone: "Hyde Park",
-    current_location: "32 CROWNS",
+    current_location: "STUDY ABROAD",
     code: "E3E8F9",
     clue_location: "GAVRAN DAIRY",
-    clue: ""
+    clue: `"Jaha mitti ki khushboo ke saath ho pyala,
+    Aur ghee ka swaad ho bilkul nirala.
+    Doodh ki nadiya yahan beh jaayein,
+    Kya tum samjhe, hum kis jagah le aayein?"`
   },
   {
     team: "Team E",
@@ -419,17 +440,6 @@ Is paheli ko suljhana hai tumhara kaam`
     zone: "Salisbury",
     current_location: "BANARAS DAIRY",
     code: "E6K7L8",
-    clue_location: "SHREEJI",
-    clue: `Iss baar jawab me morpankh hoga
-    Thandi duniya me aapka Swagat hoga
-    Basuri dikhgayi toh lagega jackpot
-    This clue will hit your sweet spot.`
-  },
-  {
-    team: "Team E",
-    zone: "Salisbury",
-    current_location: "SHREEJI",
-    code: "E7M0N1",
     clue_location: "SPICE STORIES",
     clue: `Aao tumhe ek kahani sunata hoon…
     Usme thoda mirch, masala aur tadka lagata hoon -
@@ -444,9 +454,24 @@ Is paheli ko suljhana hai tumhara kaam`
     team: "Team E",
     zone: "Salisbury",
     current_location: "SPICE STORIES",
+    code: "E7M0N1",
+    clue_location: "SHREEJI",
+    clue: 
+    `Iss baar jawab me morpankh hoga
+    Thandi duniya me aapka Swagat hoga
+    Basuri dikhgayi toh lagega jackpot
+    This clue will hit your sweet spot.`
+  },
+  {
+    team: "Team E",
+    zone: "Salisbury",
+    current_location: "SHREEJI",
     code: "E8O3P4",
     clue_location: "TURF",
-    clue: ""
+    clue: `Khush toh boht hoge tum, kyunki yeh hai aakhri padav
+    Apne pure mann se khudko kanha ki aur badhav
+    Aapke bhav aur sahyog ko bana li hai humne apni aadat 
+    NA JHUKO Naa  ruko, chauko aur chakko se karenge SHREEmanji aapka swagat.`
   },
 
   // Team F
@@ -455,29 +480,38 @@ Is paheli ko suljhana hai tumhara kaam`
     zone: "Hyde Park",
     current_location: "WARM GLOVES",
     code: "F1C5D6",
-    clue_location: "EKTA UDYAN",
-    clue: ""
+    clue_location: "SAMBHAVNATH JAIN MANDIR",
+    clue: `"Asambhav ko sambhav karde
+    Saare dukh aur peeda har de
+    Inke dwar par sir ko jhukao
+    Aur moksh jaane ka rasta pao"`
   },
   {
     team: "Team F",
     zone: "Hyde Park",
-    current_location: "EKTA UDYAN",
+    current_location: "SAMBHAVNATH JAIN MANDIR",
     code: "F2E8F9",
-    clue_location: "CHANDAN MEDICAL",
-    clue: ""
+    clue_location: "BHIMALE GARDEN",
+    clue: `"Pahado ke upar, pedon ke bich,
+    Ek balwaan Pandav ka ghar, shahar ke bicho bich
+    Mashoor hai yeh yaha ka sabse famous thikana
+    Dhund sako to dhundo, fir sabko batana"`
   },
   {
     team: "Team F",
     zone: "Hyde Park",
-    current_location: "CHANDAN MEDICAL",
+    current_location: "BHIMALE GARDEN",
     code: "F3G1H2",
-    clue_location: "TUPPERWARE",
-    clue: ""
+    clue_location: "COFFEE STORIES",
+    clue: `"Gopiyon ko main kahani sunata tha makhan ke saath,
+    Aaj tumhe milegi kahani garam pyaale ke haath.
+    Kabhi kadvi, kabhi meethi – bilkul prem ki yaari,
+    Chalo wahan, jahan har sip shuru kare ek nayi kahani"`
   },
   {
     team: "Team F",
     zone: "Hyde Park",
-    current_location: "TUPPERWARE",
+    current_location: "COFFEE STORIES",
     code: "F4I4J5",
     clue_location: "MAHAVEER PRATISHTAAN",
     clue: `"Where rows are straight and minds are fed,
@@ -494,7 +528,7 @@ Is paheli ko suljhana hai tumhara kaam`
     clue: `Garm cup haathon mein, baatein lambe waqt tak,
     Coffee ki khushboo se bhare har pal ka rang pak.
     Alag-alag beans milkar banta hai swaad lajawab,
-    Dhoondo us jagah, jahan har bleand deta hai sukoon ka jawab.`
+    Dhoondo us jagah, jahan har blend deta hai sukoon ka jawab.`
   },
   {
     team: "Team F",
@@ -524,6 +558,9 @@ Is paheli ko suljhana hai tumhara kaam`
     current_location: "AYKAR SADAN",
     code: "F8Q6R7",
     clue_location: "TURF",
-    clue: ""
+    clue: `Khush toh boht hoge tum, kyunki yeh hai aakhri padav
+    Apne pure mann se khudko kanha ki aur badhav
+    Aapke bhav aur sahyog ko bana li hai humne apni aadat 
+    NA JHUKO Naa  ruko, chauko aur chakko se karenge SHREEmanji aapka swagat.`
   }
 ];
