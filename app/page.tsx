@@ -2,7 +2,7 @@
 "use client";
 import { useState, useRef, useEffect } from "react";
 import Image from 'next/image';
-import title from './images/title_logo.png'; // For static imports
+//import title from './images/title_logo.png'; // For static imports
 import logo from './images/yf_logo.png'; // For static imports
 import { readAloudHindi } from "./readAloud";
 
@@ -89,12 +89,12 @@ export default function HomePage() {
           />
         </div>
         <div className="flex items-center justify-center p-5">
-          <Image
+          {/* <Image
             src={title}
             alt="A description of my image"
             width={250} // Required for local images
             height={300} // Required for local images
-          />
+          /> */}
         </div>
       </header>
       <div className="flex items-center justify-center">
