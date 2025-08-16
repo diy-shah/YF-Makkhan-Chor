@@ -162,7 +162,10 @@ export const teamClues: TeamClue[] = [
     current_location: "GRAFFITI",
     code: "B6R5T0",
     clue_location: "NOBLE DENTAL CLINIC",
-    clue: ""
+    clue: `Muskan jiski pehchaan hai,
+Daaton ki rakhwali jiska kaam hai,
+2 baar brush karo nahi toh padegi chhadi,
+Uska doctor hi dega agli kadi`
   },
   {
     team: "Team B",
@@ -216,7 +219,10 @@ export const teamClues: TeamClue[] = [
     current_location: "SPICE STORIES",
     code: "C3V8M1",
     clue_location: "GOVIND SANDWICH",
-    clue: ""
+    clue: `Cheese mai lipta, toast me band,
+Sabka hai ye mann pasand.
+Govind naam yaad rakho pyaare,
+Bhuk mitegi unhi ke sahare.`
   },
   {
     team: "Team C",
@@ -246,7 +252,10 @@ export const teamClues: TeamClue[] = [
     current_location: "GUJRAT DAIRY",
     code: "C6R8T4",
     clue_location: "POONAWALA GARDEN",
-    clue: ""
+    clue: `The name’s a hint - a family known
+In this garden the seeds are sown
+BENCHES, trees & paths so wide,
+Nature’s beauty you cannot hide.`
   },
   {
     team: "Team C",
@@ -313,7 +322,12 @@ export const teamClues: TeamClue[] = [
     current_location: "FALAHAR",
     code: "D4G1H2",
     clue_location: "EKTA UDYAN",
-    clue: ""
+    clue: `Koi tehelne aata hai, toh koi khuli hawa khane 
+Koi apni gopi ke saath, koi dusre ki, hum kya jane
+Dil sabka garden garden hota hai
+Par jo sthirta aur ekta ke saath kaam kare
+Wahi vijayee hota hai
+`
   },
   {
     team: "Team D",
@@ -321,7 +335,10 @@ export const teamClues: TeamClue[] = [
     current_location: "EKTA UDYAN",
     code: "D5I4J5",
     clue_location: "CHANDAN MEDICAL",
-    clue: ""
+    clue: `Yeh woh Chandan hai, jisme koi khushbo nahi
+Har dard ka ilaaj hai waha par dil ka koi ilaaj nahi
+Waha jaake milega sirf kuch der ka aaram,
+Is paheli ko suljhana hai tumhara kaam`
   },
   {
     team: "Team D",
